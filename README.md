@@ -18,4 +18,9 @@ the "reniance" command in linux usually requires root permissions to run.
 after running "sudo java -jar Optomizer.jar" you will launch the app and then there will be a text feild where you can enter the PID of the app you want to set. Entering the wrong PID could lead to negative performance.
 If you do not know the PID of your app then you can go the System monitor and check app PID there.
 
+# It should look something like this:
+
+![image](https://github.com/user-attachments/assets/e1853862-ef47-4fd5-8bf4-4eedbf055092)
+
+
 # USE LINUX!!!
