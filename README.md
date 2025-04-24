@@ -21,7 +21,7 @@ If you do not know the PID of your app then you can go the System monitor and ch
 
 # It should look something like this*:
 
-![image](https://github.com/user-attachments/assets/e1853862-ef47-4fd5-8bf4-4eedbf055092)
+![image](https://github.com/user-attachments/assets/873c89fb-aae8-44a1-90d6-604788c935c5)
 
 
 # USE LINUX!!!
