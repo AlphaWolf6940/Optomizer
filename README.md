@@ -23,6 +23,9 @@ If you do not know the PID of your app then you can go the System monitor and ch
 
 ![image](https://github.com/user-attachments/assets/873c89fb-aae8-44a1-90d6-604788c935c5)
 
+# Developers:
+Developed by a 12 year old btw. I use Arch btw. Pls ignore spelling mistakes + I spelled Optomizer wrong on purpose.
+Developed by: AlphaWolf6940 & JoeDuck2020
 
 # Compatibility
 We are trying to add compactibility for windows, but till then the supported Operating Systems are Linux and MacOS
