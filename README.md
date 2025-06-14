@@ -32,7 +32,10 @@ We have a small discord server, you may join by clicking the link:
 ## Contact us at Discord: https://discord.gg/3HKF29KuMX
 
 # Compatibility
-We are trying to add compactibility for windows, but till then the supported Operating Systems are Linux and MacOS
+We have added support for Windows OS, and now we have all OS's in support.
+> Linux
+> Mac OS
+> Windows
 
 *The version might change with time but V1.0.0 uses Java 24 or above
 *The look might change with time.
