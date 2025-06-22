@@ -33,9 +33,10 @@ We have a small discord server, you may join by clicking the link:
 
 # Compatibility
 We have added support for Windows OS, and now we have all OS's in support.
-> Linux,
+ Linux,
  Mac OS,
  Windows
 
-*The version might change with time but V1.0.0 uses Java 24 or above
-*The look might change with time.
+>*The version might change with time but V1.0.0 uses Java 24 or above*
+
+>*The look might change with time.*
