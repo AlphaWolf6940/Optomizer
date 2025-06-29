@@ -37,6 +37,8 @@ We have added support for Windows OS, and now we have all OS's in support.
  Mac OS,
  Windows
 
+ ***Any Linux Distribution using KDE Plasma will not support Java API and hence Discord Button and Help button Will not function properly.***
+
 >*The version might change with time but V1.0.0 uses Java 24 or above*
 
 >*The look might change with time.*
