@@ -1,6 +1,23 @@
 # Optomizer
 An app made for Linux systems to optimise your PC. Made in Java. Also runs on Mac OS and Windows.
 
+                   -`  ©               
+                  .o+`                   
+                 `ooo/                   
+                `+oooo:                  
+               `+oooooo:                 
+               -+oooooo+:                
+             `/:-:++oooo+:                  Recommended For Arch Linux
+            `/++++/+++++++:                 Arch Linux©          
+           `/++++++++++++++:                NOT ASSOCIATED WITH ARCH LINUX, ONLY FAN MADE!       
+          `/+++ooooooooooooo/`           
+         ./ooosssso++osssssso+`          
+        .oossssso-````/osssssso+    
+       -osssssso.      :ssssssso.   
+      :osssssss/        osssso+++.  
+     /ossssssss/        +ssssooo/-  
+  
+
 # How to Run
 Download the "Optomizer.jar" and then,
 Open the Terminal and navigate to the download
