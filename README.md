@@ -59,4 +59,6 @@ We have added support for Windows OS, and now we have all OS's in support.
 
 >*The version might change with time but V1.0.0 uses Java 24 or above*
 
+>*V.3.1.0 uses Java 25*
+
 >*The look might change with time.*
