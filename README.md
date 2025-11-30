@@ -54,7 +54,6 @@ We have added support for Windows OS, and now we have all OS's in support.
  Windows
 
 # Notice
- ***Any Linux Distribution using KDE Plasma and GNOME will not support Java API, and hence, the Discord Button and Help button will not function properly.***
  *The App cannot be updated regularly or weekly due to SCHOOL! Thank You for cooprating*
 
 >*The version might change with time but V1.0.0 uses Java 24 or above*
