@@ -21,19 +21,19 @@ An app made for Linux systems to optimise your PC. Made in Java. Also runs on Ma
 # How to Run
 Download the "Optomizer.jar" and then,
 Open the Terminal and navigate to the download
-Then run <pre> ```sudo java -jar filename ``` </pre> (write the download name in place of filename)
+Then run <pre> ```java -jar filename ``` </pre> (write the download name in place of filename)
 The "Optomizer.jar" will be located in the release section.
 
 # Java
 This app requires Java 24 or above to be installed*. Sorry about the Java version, but it was necessary to implement more features.
 V1.0.0 and V2.0.0beta use Java 24 (Class version is 68).
 
-# Why use Sudo?
-This application modifies the priority level of processes by their Process ID (PID). To perform this operation successfully, it is essential to have administrative privileges on the system. In the context of Linux operating systems, the "renice" command is typically utilised to adjust the priority of running processes, and executing this command generally necessitates root permissions. This is since changing process priorities can significantly impact system performance, thereby requiring elevated access rights to ensure proper authorisation and security measures are maintained.
+# Why to not use Sudo?
+This application uses flatlaf UI form v3.20 onwards, any java Swing UI will break if sudo is used instead of that we use GUI popups like pkexec and oascript.
 
 # How to Use?
-After running "sudo java -jar Optomizer.jar", you will launch the app, and then there will be a text field where you can enter the PID of the app you want to set. Entering the wrong PID could lead to negative performance.
-If you do not know the PID of your app, then you can go to the System Monitor and check the app PID there.
+After running "java -jar Optomizer.jar", you will launch the app, and then there will be a text field where you can enter the PID of the app you want to set. Entering the wrong PID could lead to negative performance.
+If you do not know the PID of your app, then you can go to the System Monitor and check the app PID there, also from v3.0.0 onwards we have a bar which has all pids.
 
 # It should look something like this*:
 
