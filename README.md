@@ -1,6 +1,7 @@
 # Optomizer
 An app made for Linux systems to optimise your PC. Made in Java. Also runs on Mac OS and Windows.
-*ANSCI Logo was taken from `neofetch`!*
+
+*ASCII Logo was taken from `neofetch`!*
 
                    -  ©               
                   .o+                   
