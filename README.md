@@ -28,7 +28,7 @@ The "Optomizer.jar" will be located in the release section.
 This app requires Java 24 or above to be installed*. Sorry about the Java version, but it was necessary to implement more features.
 V1.0.0 and V2.0.0beta use Java 24 (Class version is 68).
 
-# Why to not use Sudo?
+# Why to not use `sudo`?
 This application uses flatlaf UI form v3.20 onwards, any java Swing UI will break if sudo is used instead of that we use GUI popups like pkexec and oascript.
 
 # How to Use?
