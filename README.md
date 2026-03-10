@@ -38,9 +38,9 @@ This application uses flatlaf UI form v3.20 onwards, any java Swing UI will brea
 After running `java -jar Optomizer.jar`, you will launch the app, and then there will be a text field where you can enter the PID of the app you want to set. Entering the wrong PID could lead to negative performance.
 If you do not know the PID of your app, then you can go to the System Monitor and check the app PID there, also from v3.0.0 onwards we have a bar which has all pids.
 
-# It should look something like this*:
+# It should look something like this* (V3.2.0):
 
-<img width="1920" height="1080" alt="Screenshot_20260303_105753" src="https://github.com/user-attachments/assets/4575d971-0345-4471-a403-a88ade3b1ba6" />
+<img width="1920" height="1077" alt="image" src="https://github.com/user-attachments/assets/55f5083d-4cae-4eeb-9e63-c78b411fd0c3" />
 
 
 # Developers:
