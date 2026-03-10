@@ -40,7 +40,8 @@ If you do not know the PID of your app, then you can go to the System Monitor an
 
 # It should look something like this*:
 
-![image](https://github.com/user-attachments/assets/873c89fb-aae8-44a1-90d6-604788c935c5)
+<img width="1920" height="1080" alt="Screenshot_20260303_105753" src="https://github.com/user-attachments/assets/4575d971-0345-4471-a403-a88ade3b1ba6" />
+
 
 # Developers:
 Developed by a 12-year-old btw. I use Arch btw. Pls ignore spelling mistakes, + I spelt Optomizer wrong on purpose.
