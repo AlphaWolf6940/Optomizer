@@ -42,9 +42,13 @@ If you do not know the PID of your app, then you can go to the System Monitor an
 
 <img width="1920" height="1077" alt="image" src="https://github.com/user-attachments/assets/55f5083d-4cae-4eeb-9e63-c78b411fd0c3" />
 
+# Java Versions:
+v1.0.0 and v2.0.0beta use Java 24
+v2.0.0 onwards uses Java 25
+**Please confirm that you are using the correct java version or else the app might not launch and may cause class errors.**
 
 # Developers:
-Developed by a 12-year-old btw. I use Arch btw. Pls ignore spelling mistakes, + I spelt Optomizer wrong on purpose.
+Developed by a 13-year-old btw. I use Arch btw. Pls ignore spelling mistakes, + I spelt Optomizer wrong on purpose.
 Developed by: AlphaWolf6940 & JoeDuck2020. 
 
 # Contact
@@ -59,9 +63,4 @@ We have added support for Windows OS, and now we have all OS's in support.
 
 # Notice
  *The App cannot be updated regularly or weekly due to SCHOOL! Thank You for cooprating*
-
->*The version might change with time but V1.0.0 uses Java 24 or above*
-
->*V.3.1.0 uses Java 25*
-
 >*The look might change with time.*
