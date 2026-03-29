@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: App
+Class-Path: .
+Created-By: 25.0.1 (Arch Linux)
+
