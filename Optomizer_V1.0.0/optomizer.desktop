@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Optomizer
+Exec=$HOME/.optomizer/RunnerScript.sh
+Icon=$HOME/.optomizer/icon.png
+Terminal=true
+Categories=Utility;Application;
+Path=
+StartupNotify=true
